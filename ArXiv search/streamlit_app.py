@@ -1,8 +1,3 @@
-!pip install feedparser
-!pip install openai
-!pip install streamlit
-
-
 import openai
 import re
 import streamlit as st
