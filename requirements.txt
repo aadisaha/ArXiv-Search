@@ -3,3 +3,4 @@ feedparser
 streamlit-aggrid
 AgGrid, GridOptionsBuilder, GridUpdateMode, DataReturnMode
 time
+pandas as pd
